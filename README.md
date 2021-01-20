@@ -11,7 +11,7 @@ Crawls websites to a given depth and retrieves the list of image URLs for each c
 POST http://localhost:8080/crawl
 Content-Type: application/json
 {
-  "url": "https://wikipedia.org/wiki/Web_crawler",
+  "url": "https://anysite.com",
   "depth": 1
 }
 ```
